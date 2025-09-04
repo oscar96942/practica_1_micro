@@ -1,0 +1,3 @@
+MOVWF 0X00
+NOP
+NOP
